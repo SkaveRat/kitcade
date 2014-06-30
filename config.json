@@ -3,11 +3,7 @@
 		{
 			"name": "Gameboy Color",
 			"rompath": "/home/skaverat/arcade/roms/gbc/",
-			"command": "mednafen",
-			"commandargs": [
-				["-sounddevice"],
-				["sexyal-literal-default"]
-			]
+			"command": "mednafen -sounddevice sexyal-literal-default"
 		}
 	]
 
