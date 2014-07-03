@@ -1,5 +1,6 @@
 {
 	"13": "handleEnter",
+	"27": "handleEscape",
 	"37": "handleLeft",
 	"38": "handleUp",
 	"39": "handleRight",
