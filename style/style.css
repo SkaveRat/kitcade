@@ -1,3 +1,8 @@
+body {
+	background-color: #222222;
+	color: #338e8e;
+}
+
 .active {
-	color: #f00;
+	font-weight: bold;
 }
