@@ -4,6 +4,16 @@
 			"name": "Gameboy Color",
 			"rompath": "/home/skaverat/arcade/roms/gbc/",
 			"command": "mednafen -sounddevice sexyal-literal-default"
+		},
+		{
+			"name": "Gameboy Advance",
+			"rompath": "/home/skaverat/arcade/roms/gba/",
+			"command": "mednafen -sounddevice sexyal-literal-default"
+		},
+		{
+			"name": "Super Nintendo",
+			"rompath": "/home/skaverat/arcade/roms/snes/",
+			"command": "mednafen -sounddevice sexyal-literal-default"
 		}
 	]
 
