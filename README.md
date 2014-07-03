@@ -19,6 +19,18 @@ General
 
 Currently, Kitcade is in pre-alpha phase. If you want to help out, feel free to look into the [issue-tracker](https://github.com/SkaveRat/kitcade/issues) and open up pull-requests.
 
+Config
+------
+
+Check `config.json`. Emulators and roms are configured here.
+
+Running Kitcade
+---------------
+
+Download the [node-webkit](https://github.com/rogerwang/node-webkit) executable and run it:
+
+`$ nw /path/to/kitcade`
+
 TODOs
 -----
 
