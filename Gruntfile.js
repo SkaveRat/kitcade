@@ -3,13 +3,13 @@ module.exports = function (grunt) {
 		pkg: grunt.file.readJSON('./package.json'),
 		nodewebkit: {
 			options: {
-				build_dir: './build', // Where the build version of my node-webkit app is saved
+				build_dir: './build',
 				mac: false,
 				win: false,
 				linux32: false,
 				linux64: true
 			},
-			src: ['./**/*'] // Your node-webkit app
+			src: ['./**/*']
 		}
 	});
 
