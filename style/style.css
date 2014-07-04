@@ -1,8 +1,13 @@
 body {
-	background-color: #222222;
-	color: #338e8e;
+
+	font-family: monospace;
+	font-size: 2em;
+	font-weight: bold;
+
+	background: #000 url('../img/background.jpg') 50% 0 no-repeat;
+	color: #fff;
 }
 
 .active {
-	font-weight: bold;
+	text-decoration: underline;
 }
