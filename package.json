@@ -2,8 +2,7 @@
 	"name": "kitcade",
 	"main": "index.html",
 	"window": {
-		"toolbar": true,
-		"height": 768,
-		"width": 1024
+		"toolbar": false,
+		"fullscreen": true
 	}
 }
