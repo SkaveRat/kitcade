@@ -8,6 +8,12 @@ body {
 	color: #fff;
 }
 
+.menu {
+	position: absolute;
+	top: 150px;
+	left: 20%;
+}
+
 .active {
 	text-decoration: underline;
 }
