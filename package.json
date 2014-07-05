@@ -4,7 +4,8 @@
   "main": "index.html",
   "window": {
     "toolbar": false,
-    "fullscreen": true
+    "fullscreen": true,
+	"frame": false
   },
   "dependencies": {
     "jquery": "2.1.1"
