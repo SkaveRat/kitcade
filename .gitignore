@@ -1,7 +1,8 @@
 #IDEs
 .idea
 
-#deps
+#NPM
+npm-debug.log
 node_modules
 
 #shrinkwrapping
